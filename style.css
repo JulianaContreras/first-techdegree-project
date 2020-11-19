@@ -1,0 +1,35 @@
+.tag-name {
+  color: black;
+  border-radius: 10px;
+  border-color: black;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+
+}
+
+.tag-heading {
+color: black;
+}
+
+.tag-IMG_7649{
+  width: 150px;
+  height: 200px;
+  border-radius: 10%;
+  border: 10px solid grey;
+
+}
+
+.tag-IMG_0982{
+  width: 150px;
+  height: 200px;
+  border-radius: 10%;
+  border: 10px solid grey;
+}
+
+.tag-IMG_9728 {
+  width: 150px;
+  height: 200px;
+  border-radius: 10%;
+  border: 10px solid grey;
+}
