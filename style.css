@@ -1,15 +1,7 @@
-.tag-name {
-  color: black;
-  border-radius: 10px;
-  border-color: black;
-  padding: 0px;
-  margin: 0px;
-  text-align: center;
-
-}
 
 .tag-heading {
 color: black;
+text-align: center;
 }
 
 .tag-IMG_7649{
@@ -17,6 +9,7 @@ color: black;
   height: 200px;
   border-radius: 10%;
   border: 10px solid grey;
+  text-align: center;
 
 }
 
@@ -25,6 +18,8 @@ color: black;
   height: 200px;
   border-radius: 10%;
   border: 10px solid grey;
+  text-align: center;
+
 }
 
 .tag-IMG_9728 {
@@ -32,4 +27,16 @@ color: black;
   height: 200px;
   border-radius: 10%;
   border: 10px solid grey;
+
+
+}
+.tag-IMG_1183 {
+  width: 150px;
+  height: 200px;
+  border-radius: 10%;
+  border: 10px solid grey;
+}
+
+body {
+  background: url( 'images/IMG_greybackground.jpg')
 }
