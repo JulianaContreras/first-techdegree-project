@@ -9,7 +9,6 @@ text-align: center;
   height: 200px;
   border-radius: 10%;
   border: 10px solid grey;
-  text-align: center;
 transition: 2s;
 }
 
@@ -22,7 +21,6 @@ transition: 2s;
   height: 200px;
   border-radius: 10%;
   border: 10px solid grey;
-  text-align: center;
   transition: 2s;
 }
 
@@ -35,7 +33,6 @@ transition: 2s;
   height: 200px;
   border-radius: 10%;
   border: 10px solid grey;
-  text-align: center;
   transition: 2s;
 }
 .tag-IMG_9728:hover {
@@ -46,7 +43,6 @@ transform: scale(3) rotate(0deg);
   height: 200px;
   border-radius: 10%;
   border: 10px solid grey;
-  text-align: center;
   transition: 2s;
 }
 
